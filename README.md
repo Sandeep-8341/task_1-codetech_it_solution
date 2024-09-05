@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hospital_Management_System
 hospital_management_system
 
@@ -59,3 +60,7 @@ Contains methods for CRUD (Create, Read, Update, Delete) operations on the datab
 **Database:**
 Stores all the data related to patients, ambulances, departments, employees, and rooms.
 Can be any relational database (e.g., MySQL, PostgreSQL).
+=======
+# task_1-codetech_it_solution
+task_1
+>>>>>>> dc5537c4c181e8e989d87bc99ee1a4a37da0b91f
